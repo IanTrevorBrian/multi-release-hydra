@@ -1,0 +1,6 @@
+pipeline
+workflow-multibranch
+branch-api
+git
+github-branch-source
+pipeline-stage-view
